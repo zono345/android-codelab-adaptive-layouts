@@ -1,25 +1,24 @@
-Sports App
-===================================
+# android-codelab-adaptive-layouts
 
-Starter code for Android Basics codelab - Adaptive Layouts
+Introduction
+------------
+- Android CodeLabで作ったアプリです。
+- アプリ名称: Sports App  
+  
+対象Codelab
+------------
 
-Sports app is a basic app to introduce beginner students to adaptive layouts. This app consists of
-two fragments: a sports topics list and a details screen. The details screen displays placeholder
-text for the sports news.
+### アダプティブレイアウト ###
+https://developer.android.com/codelabs/basic-android-kotlin-training-adaptive-layouts?hl=ja
 
+- アダプティブレイアウトを使用して、スマートフォンではフラグメント1画面を表示し、横幅の広いタブレットでは、フラグメント2画面を横並びで表示する。
 
-Used in the [Android Basics with Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) course.
-
-
-Pre-requisites
---------------
-
-You need to know:
-- Knowledge about Fragments.
-- Basics of Navigation
-
-
-Getting Started
----------------
-
-1. Download and run the app.
+  
+アプリ画面
+----  
+### 静止画 ###
+<img src="" width="1000">
+<img src="" width="1000">
+  
+### GIF ###  
+<" width="300">
