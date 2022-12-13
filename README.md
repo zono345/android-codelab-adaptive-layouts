@@ -17,8 +17,7 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-adaptive-la
 アプリ画面
 ----  
 ### 静止画 ###
-<img src="" width="1000">
-<img src="" width="1000">
+<img src="https://user-images.githubusercontent.com/88254716/207455719-e848160c-e54f-4a40-a8d1-a7dc784f389f.png" width="1000">
   
 ### GIF ###  
 <" width="300">
